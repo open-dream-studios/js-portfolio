@@ -1,1 +1,1 @@
-{"about":{"type": "folder", "index": 0, "children": {"0": {"type": "image", "link": "image_link"}}},"projects":{"type": "folder", "index": 1, "children": {"project1": {"type": "folder", "index": 0}}}}
+{"about":{"type": "folder", "index": 0, "children": {"0": {"type": "image", "link": "image_link"}}},"projects":{"type": "folder", "index": 1, "children": {"project1": {"type": "folder", "index": 0, "children": {}}, "project2": {"type": "folder", "index": 1, "children": {}}}}}
