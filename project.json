@@ -1,1 +1,1 @@
-{"about":{"type": "page", "index": 0},"projects":{"type": "folder", "index": 1}}
+{"about":{"type": "page", "index": 0, "images": {"0": {"type": "image", "link": "image_link"}},"projects":{"type": "folder", "index": 1}}
