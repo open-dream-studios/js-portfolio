@@ -20,6 +20,6 @@
     }
   },
   "projectDetails": {
-    "pagesLock": false
+    "pagesLock": true
   }
 }
