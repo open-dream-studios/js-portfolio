@@ -3,9 +3,9 @@
     "type": "folder",
     "index": 0,
     "children": {
-      "0": { "type": "image", "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image1.jpg" },
-      "1": { "type": "image", "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image2.jpg" },
-      "2": { "type": "image", "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg" }
+      "0": { "type": "image", "index": 0, "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image1.jpg" },
+      "1": { "type": "image", "index": 1, "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image2.jpg" },
+      "2": { "type": "image", "index": 2, "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg" }
     }
   },
   "projects": {
@@ -18,5 +18,8 @@
       "project4": { "type": "folder", "index": 3, "children": {} },
       "project5": { "type": "folder", "index": 4, "children": {} }
     }
+  },
+  "projectDetails": {
+    "pagesLock": false
   }
 }
