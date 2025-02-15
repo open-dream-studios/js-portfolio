@@ -11,7 +11,7 @@
       "children": {
         "0": {
           "type": "image",
-          "index": 0,
+          "index": 2,
           "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image1.jpg"
         },
         "1": {
@@ -21,7 +21,7 @@
         },
         "2": {
           "type": "image",
-          "index": 2,
+          "index": 0,
           "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg"
         }
       }
