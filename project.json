@@ -35,26 +35,30 @@
           "index": 1,
           "children": {},
           "details": {
-            "colors": {
-              "color1": {
+            "colors": [
+              {
                 "name": "Project BG",
-                "value": "green"
+                "value": "green",
+                "index": 1
               },
-              "color2": {
+              {
                 "name": "Text Color",
-                "value": "green"
+                "value": "green",
+                "index": 0
               }
-            },
-            "text": {
-              "text1": {
+            ],
+            "text": [
+              {
                 "name": "Project Title",
-                "value": "My First Project"
+                "value": "My First Project",
+                "index": 1
               },
-               "text2": {
+              {
                 "name": "Description",
-                "value": "This is the project Sub description. Hello!!"
+                "value": "This is the project Sub description. Hello!!",
+                "index": 0
               }
-            }
+            ]
           }
         },
         "project2": { "type": "folder", "index": 0, "children": {} },
