@@ -7,7 +7,7 @@
   "children": {
     "about": {
       "type": "folder",
-      "index": 0,
+      "index": 1,
       "children": {
         "0": {
           "type": "image",
@@ -28,7 +28,7 @@
     },
     "projects": {
       "type": "folder",
-      "index": 1,
+      "index": 0,
       "children": {
         "project1": { "type": "folder", "index": 0, "children": {} },
         "project2": { "type": "folder", "index": 1, "children": {} },
