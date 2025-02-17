@@ -63,7 +63,7 @@
         "0": {
           "name": "Project 1",
           "type": "folder",
-          "index": 12,
+          "index": 0,
           "children": {},
           "details": {
             "colors": [
@@ -110,7 +110,7 @@
         "1": {
           "name": "Project 2",
           "type": "folder",
-          "index": 4,
+          "index": 1,
           "children": {},
           "details": {
             "colors": [],
@@ -128,9 +128,9 @@
           }
         },
         "3": {
-          "name": "Project DELETE",
+          "name": "Project 4",
           "type": "folder",
-          "index": 21,
+          "index": 3,
           "children": {},
           "details": {
             "colors": [],
