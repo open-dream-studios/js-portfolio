@@ -1,12 +1,13 @@
 {
   "type": "folder",
+  "name": "App",
   "projectDetails": {
-    "projectName": "Project 1",
     "pagesLock": false
   },
   "children": {
     "0": {
       "type": "folder",
+      "name": "About",
       "index": 1,
       "details": {
         "colors": [],
@@ -33,6 +34,7 @@
     "1": {
       "type": "folder",
       "index": 0,
+      "name": "Projects",
       "details": {
         "colors": [],
         "text": []
