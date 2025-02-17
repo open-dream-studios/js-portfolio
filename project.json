@@ -28,6 +28,26 @@
           "type": "image",
           "index": 2,
           "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg"
+        },
+        "3": {
+          "type": "image",
+          "index": 3,
+          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image1.jpg"
+        },
+        "4": {
+          "type": "image",
+          "index": 4,
+          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image2.jpg"
+        },
+        "5": {
+          "type": "image",
+          "index": 5,
+          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg"
+        },
+        "6": {
+          "type": "image",
+          "index": 6,
+          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg"
         }
       }
     },
