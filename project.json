@@ -1,143 +1,39 @@
 {
   "type": "folder",
-  "name": "App",
+  "name": "Jess Shulman",
   "projectDetails": {
-    "pagesLock": false
+    "pagesLock": true
   },
   "children": {
     "0": {
       "type": "folder",
-      "name": "About",
-      "index": 1,
+      "name": "Projects",
+      "index": 0,
       "details": {
         "colors": [],
         "text": []
       },
-      "children": {
-        "0": {
-          "type": "image",
-          "index": 0,
-          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image1.jpg"
-        },
-        "1": {
-          "type": "image",
-          "index": 1,
-          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image2.jpg"
-        },
-        "2": {
-          "type": "image",
-          "index": 2,
-          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg"
-        },
-        "3": {
-          "type": "image",
-          "index": 3,
-          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image1.jpg"
-        },
-        "4": {
-          "type": "image",
-          "index": 4,
-          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image2.jpg"
-        },
-        "5": {
-          "type": "image",
-          "index": 5,
-          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg"
-        },
-        "6": {
-          "type": "image",
-          "index": 20,
-          "link": "https://raw.githubusercontent.com/open-dream-studios/test-project/refs/heads/main/images/image3.jpg"
-        }
-      }
+      "children": {}
     },
     "1": {
       "type": "folder",
-      "index": 0,
-      "name": "Projects",
+      "index": 1,
+      "name": "About",
       "details": {
         "colors": [],
         "text": []
       },
-      "children": {
-        "0": {
-          "name": "Project 1",
-          "type": "folder",
-          "index": 0,
-          "children": {},
-          "details": {
-            "colors": [
-              {
-                "name": "Project BG",
-                "value": "green",
-                "index": 1
-              },
-              {
-                "name": "Text Color",
-                "value": "green",
-                "index": 0
-              }
-            ],
-            "text": [
-              {
-                "name": "Project Title",
-                "value": "My First Project",
-                "index": 1
-              },
-              {
-                "name": "Description",
-                "value": "This is the project Sub description. Hello!!",
-                "index": 0
-              },
-              {
-                "name": "Description2",
-                "value": "This is the project Sub description. Hello!!",
-                "index": 2
-              },
-              {
-                "name": "Description3",
-                "value": "This is the project Sub description. Hello!!",
-                "index": 3
-              },
-              {
-                "name": "Description2",
-                "value": "This is the project Sub description. Hello!!",
-                "index": 4
-              }
-            ]
-          }
-        },
-        "1": {
-          "name": "Project 2",
-          "type": "folder",
-          "index": 1,
-          "children": {},
-          "details": {
-            "colors": [],
-            "text": []
-          }
-        },
-        "2": {
-          "name": "Project 3",
-          "type": "folder",
-          "index": 2,
-          "children": {},
-          "details": {
-            "colors": [],
-            "text": []
-          }
-        },
-        "3": {
-          "name": "Project 4",
-          "type": "folder",
-          "index": 3,
-          "children": {},
-          "details": {
-            "colors": [],
-            "text": []
-          }
-        }
-      }
+      "children": {}
+    },
+    "2": {
+      "type": "folder",
+      "index": 2,
+      "name": "Archives",
+      "details": {
+        "colors": [],
+        "text": []
+      },
+      "children": {}
     }
   }
 }
