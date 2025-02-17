@@ -5,9 +5,13 @@
     "pagesLock": false
   },
   "children": {
-    "about": {
+    "0": {
       "type": "folder",
       "index": 1,
+      "details": {
+        "colors": [],
+        "text": []
+      },
       "children": {
         "0": {
           "type": "image",
@@ -26,11 +30,16 @@
         }
       }
     },
-    "projects": {
+    "1": {
       "type": "folder",
       "index": 0,
+      "details": {
+        "colors": [],
+        "text": []
+      },
       "children": {
-        "project1": {
+        "0": {
+          "name": "Project 1",
           "type": "folder",
           "index": 1,
           "children": {},
@@ -76,10 +85,26 @@
             ]
           }
         },
-        "project2": { "type": "folder", "index": 0, "children": {} },
-        "project3": { "type": "folder", "index": 2, "children": {} },
-        "project4": { "type": "folder", "index": 3, "children": {} },
-        "project5": { "type": "folder", "index": 4, "children": {} }
+        "1": {
+          "name": "Project 2",
+          "type": "folder",
+          "index": 0,
+          "children": {},
+          "details": {
+            "colors": [],
+            "text": []
+          }
+        },
+        "2": {
+          "name": "Project 3",
+          "type": "folder",
+          "index": 2,
+          "children": {},
+          "details": {
+            "colors": [],
+            "text": []
+          }
+        }
       }
     }
   }
