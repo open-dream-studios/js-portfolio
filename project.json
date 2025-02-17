@@ -106,6 +106,16 @@
             "colors": [],
             "text": []
           }
+        },
+        "3": {
+          "name": "Project DELETE",
+          "type": "folder",
+          "index": 21,
+          "children": {},
+          "details": {
+            "colors": [],
+            "text": []
+          }
         }
       }
     }
